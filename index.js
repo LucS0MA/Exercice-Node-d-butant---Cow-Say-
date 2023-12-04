@@ -5,7 +5,7 @@ const cowsay = require("cowsay");
 
 console.log(
   cowsay.say({
-    text: `${myInformations.myInformations.name}, ${myInformations.myInformations.campus}`,
+    text: `${myInformations.name}, ${myInformations.campus}`,
     e: "oO",
     T: "U ",
   })

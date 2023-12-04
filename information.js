@@ -3,6 +3,4 @@ const myInformations = {
   campus: "monCampus",
 };
 
-module.exports = {
-  myInformations: myInformations,
-};
+module.exports = myInformations;
